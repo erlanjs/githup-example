@@ -8,6 +8,7 @@ body {
   max-width: 1220px;
   margin: 0 auto;
   padding: 41px 15px 113px;
+  background: red;
 }
 .header-logo {
   height: 41px;
